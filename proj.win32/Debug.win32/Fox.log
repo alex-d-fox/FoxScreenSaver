@@ -1,0 +1,17 @@
+﻿  AppDelegate.cpp
+  fox.cpp
+  InputEvents.cpp
+  main.cpp
+z:\work\programming\fox-screen-saver\classes\appdelegate.cpp(42): warning C4305: 'argument': truncation from 'double' to 'float'
+  60 File(s) copied
+AppDelegate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library Z:\Work\Programming\Fox-Screen-Saver\proj.win32\Debug.win32\Fox.lib and object Z:\Work\Programming\Fox-Screen-Saver\proj.win32\Debug.win32\Fox.exp
+  Fox.vcxproj -> Z:\Work\Programming\Fox-Screen-Saver\proj.win32\Debug.win32\Fox.exe
+  Fox.vcxproj -> Z:\Work\Programming\Fox-Screen-Saver\proj.win32\Debug.win32\Fox.pdb (Full PDB)
+  Z:\Work\Programming\Fox-Screen-Saver\Resources\res\fox.png -> Z:\Work\Programming\Fox-Screen-Saver\proj.win32\Debug.win32\res\fox.png
+  Z:\Work\Programming\Fox-Screen-Saver\Resources\res\tail1.png -> Z:\Work\Programming\Fox-Screen-Saver\proj.win32\Debug.win32\res\tail1.png
+  Z:\Work\Programming\Fox-Screen-Saver\Resources\res\tail2.png -> Z:\Work\Programming\Fox-Screen-Saver\proj.win32\Debug.win32\res\tail2.png
+  Z:\Work\Programming\Fox-Screen-Saver\Resources\res\tail3.png -> Z:\Work\Programming\Fox-Screen-Saver\proj.win32\Debug.win32\res\tail3.png
+  Z:\Work\Programming\Fox-Screen-Saver\Resources\res\tail4.png -> Z:\Work\Programming\Fox-Screen-Saver\proj.win32\Debug.win32\res\tail4.png
+  Z:\Work\Programming\Fox-Screen-Saver\Resources\res\tail5.png -> Z:\Work\Programming\Fox-Screen-Saver\proj.win32\Debug.win32\res\tail5.png
+  6 File(s) copied
